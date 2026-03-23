@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AI QA Test Generator</title>
+</head>
+<body>
+    <h2>Upload Requirement File</h2>
+    <input type="file" id="fileInput"/>
+    <button onclick="uploadFile()">Generate Test Cases</button>
+
+    <h3>Output:</h3>
+    <pre id="output"></pre>
+
+    <script>
+        function uploadFile() {
+            const fileInput = document.getElementById("fileInput").files[0];
+            const formData = new FormData();
+            formData.append("file", fileInput);
+
+            fetch("/generate", {
+                method: "POST",
+                body: formData
+            })
+            .then(res => res.json())
+            .then(data => {
+                document.getElementById("output").innerText = data.testcases;
+            });
+        }
+    </script>
+</body>
+</html>
