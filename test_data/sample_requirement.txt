@@ -1,0 +1,2 @@
+User should be able to login using valid email and password.
+Invalid login should show error message.
