@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![AI](https://img.shields.io/badge/AI-GenAI-green)
+![QA](https://img.shields.io/badge/QA-Automation-orange)
+
 # 🤖 AI-Powered QA Test Case Generator (Full-Stack)
 
 ## 🚀 Overview
@@ -324,7 +328,13 @@ Invalid login should show error message.
 * Test Case 4: Special characters in password
 * Edge Cases: Large input values, SQL injection attempts
 
----
+## 📸 Screenshots
+
+![App Screenshot](screenshot/ui.png)
+
+## 🎥 Demo Video
+
+👉 [Click here to watch demo]https://drive.google.com/file/d/1MVGc82ZGQTbDyQ7zbciefNo6xJp8JuAs/view?usp=drive_link
 
 ## 🎯 Benefits to Users
 

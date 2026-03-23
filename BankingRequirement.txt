@@ -1,0 +1,13 @@
+User should be able to transfer money to another account.
+
+System should validate sufficient balance before transaction.
+
+Transaction should fail if balance is insufficient.
+
+User should receive confirmation after successful transfer.
+
+System should log all transactions.
+
+If network fails during transaction, system should ensure no duplicate transfer.
+
+Daily transfer limit should be enforced.

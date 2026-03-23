@@ -4,21 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90ede6fb-7231-46e4-83e1-cdb0e063a185" name="Changes" comment="ai project">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ai-qa-automation-framework.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/copilot.data.migration.ask2agent.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    <list default="true" id="90ede6fb-7231-46e4-83e1-cdb0e063a185" name="Changes" comment="Uploading with frontend">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ai_engine/test_generator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/config.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_data/sample_requirement.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_sample.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/prompt_builder.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,18 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "priyankagurubhaiye"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;priyankagurubhaiye&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/priyankagurubhaiye/ai-qa-automation-framework.git",
-    "accountId": "af7f2e8c-e92c-49d4-99ad-e10ed5995047"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/priyankagurubhaiye/ai-qa-automation-framework.git&quot;,
+    &quot;accountId&quot;: &quot;af7f2e8c-e92c-49d4-99ad-e10ed5995047&quot;
   }
-}]]></component>
+}</component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
@@ -66,6 +55,7 @@
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Admin/Downloads/ai-qa-automation-framework",
+    "onboarding.tips.debug.path": "C:/ai-qa-automation-framework/Screenshot/src/main/java/org/example/Main.java",
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
@@ -92,12 +82,40 @@
       <option name="project" value="LOCAL" />
       <updated>1774246848634</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Uploading with frontend">
+      <option name="closed" value="true" />
+      <created>1774267221022</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1774267221022</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Uploading with frontend">
+      <option name="closed" value="true" />
+      <created>1774267232670</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1774267232670</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ai project" />
-    <option name="LAST_COMMIT_MESSAGE" value="ai project" />
+    <MESSAGE value="Uploading with frontend" />
+    <option name="LAST_COMMIT_MESSAGE" value="Uploading with frontend" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/screenshot/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
